@@ -1,0 +1,46 @@
+import {StyleSheet} from 'react-native';
+export default {
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  textInput: {
+    height: 40,
+    fontSize: 14,
+    width: '90%',
+    borderBottomWidth: 1,
+    marginTop: 8,
+    marginVertical: 15,
+    backgroundColor: '#F9F9F9',
+    borderColor: '#F1F1F1',
+    borderWidth: 1,
+    borderRadius: 5,
+  },
+  button: {
+    backgroundColor: '#395FED',
+    borderRadius: 5,
+    width: '90%',
+    height: 40,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginVertical: 8,
+  },
+  button_text: {
+    fontFamily: 'Roboto',
+    fontStyle: 'normal',
+    fontWeight: 'normal',
+    fontSize: 15,
+    lineHeight: 24,
+    color: '#fff',
+  },
+  Title_text: {
+    fontFamily: 'Roboto',
+    fontStyle: 'normal',
+    fontWeight: '500',
+    fontSize: 24,
+    lineHeight: 24,
+    color: '#222222',
+    marginBottom: 20,
+  },
+};

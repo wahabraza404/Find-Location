@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "144306297134",
+    "firebase_url": "https://edtechapp.firebaseio.com",
+    "project_id": "edtechapp",
+    "storage_bucket": "edtechapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144306297134:android:8250be3a083aeb14",
+        "android_client_info": {
+          "package_name": "com.edtechworxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144306297134-rrfchm7h5qc7rpq307c5not7odv66c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdy0qonAiMVztDKmlLymF0MB89ROaZGOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144306297134-rrfchm7h5qc7rpq307c5not7odv66c14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144306297134:android:e9447ffeef76792922c2bf",
+        "android_client_info": {
+          "package_name": "com.pilottask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144306297134-rrfchm7h5qc7rpq307c5not7odv66c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdy0qonAiMVztDKmlLymF0MB89ROaZGOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144306297134-rrfchm7h5qc7rpq307c5not7odv66c14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144306297134:android:6a8e6e78d2516ac4",
+        "android_client_info": {
+          "package_name": "com.pushnotificationz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144306297134-rrfchm7h5qc7rpq307c5not7odv66c14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdy0qonAiMVztDKmlLymF0MB89ROaZGOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144306297134-rrfchm7h5qc7rpq307c5not7odv66c14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
